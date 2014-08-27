@@ -1,0 +1,4 @@
+html{background: #002433}
+body,div,p{margin:0;padding:0}
+#box{height:120px;width:200px;border:1px solid #02212D;position: absolute;left:0;background: #fff}
+#handler{height:30px;background:#ddd;cursor: move;}
